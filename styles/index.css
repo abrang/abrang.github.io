@@ -1,0 +1,65 @@
+html {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: black;
+    margin: 10%;
+}
+
+.name {
+    display: inline;
+    font-size: large;
+    alignment: right;
+}
+
+.first-name {
+    color: white;
+    display: inline;
+    padding-left: 10%;
+    vertical-align: middle;
+}
+
+.surname {
+    color: #40E0D0;
+    display: inline;
+    padding-right: 5%;
+    vertical-align: middle;
+}
+
+img {
+    height: 380px;
+    width: 380px;
+    display: inline;
+    alignment: left;
+    vertical-align: middle;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    white-space: pre;
+    font-size: large;
+    padding-bottom: 5px;
+    text-align: right;
+    /*vertical-align: middle;*/
+}
+
+.link:hover {
+    font-size: larger;
+}
+
+.icons {
+    display: inline;
+}
+
+.links {
+    vertical-align: middle;
+}
+
+ul {
+    display: inline-block;
+}
+
+.small-icon {
+    height: 20px;
+    width: 20px;
+}
