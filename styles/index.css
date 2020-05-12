@@ -1,6 +1,10 @@
 html {
     font-family: 'Noto Sans', sans-serif;
     background-color: black;
+    /*background-image: url("../images/landscape-photography-of-wild-trees-over-mountain-861339.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*background-size: 1040px;*/
     margin: 10%;
 }
 
@@ -62,4 +66,15 @@ ul {
 .small-icon {
     height: 20px;
     width: 20px;
+}
+
+a {
+    color: white;
+    display: inline;
+}
+
+.linkedin-icon {
+    height: 20px;
+    width: 82px;
+    padding-top: 5px;
 }
